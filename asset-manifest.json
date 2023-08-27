@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/good-home-pickles/static/css/main.6e451ff5.css",
+    "main.js": "/good-home-pickles/static/js/main.65f4349e.js",
+    "static/js/787.0540d3cb.chunk.js": "/good-home-pickles/static/js/787.0540d3cb.chunk.js",
+    "index.html": "/good-home-pickles/index.html",
+    "main.6e451ff5.css.map": "/good-home-pickles/static/css/main.6e451ff5.css.map",
+    "main.65f4349e.js.map": "/good-home-pickles/static/js/main.65f4349e.js.map",
+    "787.0540d3cb.chunk.js.map": "/good-home-pickles/static/js/787.0540d3cb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6e451ff5.css",
+    "static/js/main.65f4349e.js"
+  ]
+}
